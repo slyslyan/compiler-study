@@ -1,6 +1,6 @@
 # compiler-study
 ## 1. 编译核心能力：LLVM/MLIR、TVM/XLA/Triton、IR设计、Pass优化、代码生成、编译原理底层理解
-### 1.1 LLVM/MLIR
+### 1.1 [LLVM/MLIR](compiler-study/llvm)
 ## 2.c++工业级
 ### 2.1 cmake构建
 [cmake](https://cloud.tencent.com/developer/article/2543218)
